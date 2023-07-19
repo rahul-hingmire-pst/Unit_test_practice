@@ -37,4 +37,6 @@ class Checkout:
             else:
                 total += self.prices[item] * cnt
         return total
+    
+    
 

@@ -35,4 +35,6 @@ def test_canaddiscountrule(checkout):
     print(checkout.calculatetotal())
     assert checkout.calculatetotal() == 6
 
+    
+
 

@@ -10,3 +10,4 @@ def alert():
     if s < 60 or s > 100:
         return True
     return False
+
