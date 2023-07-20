@@ -16,3 +16,5 @@ class student:
     
     def topper(self):
         return max(student,lambda student:student.get_credits()) 
+    
+    
